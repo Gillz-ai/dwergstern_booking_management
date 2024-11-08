@@ -1,0 +1,10 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore token and credentials files
+token.json
+credentials.json
+
+# Ignore common cache and system files
+__pycache__/
+.DS_Store
