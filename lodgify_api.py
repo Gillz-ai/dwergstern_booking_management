@@ -84,7 +84,7 @@ if __name__ == "__main__":
         "guest_pets": 1,
         "guest_message": "dit huis graag",
         "total_price": 1200,
-        "arrival": "2024-12-15",
+        "arrival": "2025-12-15",
         "departure": "2025-12-18",
         }
     create_reservation(test_data)
